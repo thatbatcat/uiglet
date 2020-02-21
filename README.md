@@ -1,3 +1,3 @@
 # uiglet
 
-A UI/graphics framework built around pyglet in python3.
+A wrapper around pyglet that I created to use when building graphical applications in python3.
